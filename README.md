@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Edge-computing-embedded-platform
 Project aims at providing a common platform for edge computing applications such as video analytics, smart city and so on. 
 This is helps in orchestration of end devices
@@ -18,3 +19,6 @@ This is helps in orchestration of end devices
 * Wamp messaging services are used. Library to be installed is autobahn
 
       `pip install autobahn`
+=======
+# ecep_client
+>>>>>>> 1108261f7bda96926348ca6e049c53dca1fdf50f
